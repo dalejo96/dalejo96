@@ -69,6 +69,10 @@ Want to know more about my core skills? Look down below!
 
 ## Conferences and community talks:
 
+- 🇺🇸 Reach Summit - November 2024: Lightning Talk [Unleashing the Power of Duck-Typing in React: Crafting a Generic Application](https://gitnation.com/contents/unleashing-the-power-of-duck-typing-in-react-crafting-a-generic-application)
+
+- 🇪🇨 Quito Lambda - November 2024: [Duck-Typing magic: Aplicaciones genéricas con React](https://www.youtube.com/watch?v=K1C_mQl9hsI)
+
 - 🗺️ Reach and Chill - August 2024: Full talk [Unleashing the Power of Duck-Typing in React: Crafting a Generic Application](https://www.youtube.com/watch?v=T0Iih_GTwdE&t=5s&ab_channel=CSharpTV)
 
 - 🇪🇨 Quito Lambda - July 2022: [Explorando las bases de datos en tiempo real de Firebase](https://www.youtube.com/watch?v=DNehbjXnuvk&ab_channel=QuitoLambda)
